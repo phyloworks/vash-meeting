@@ -4,11 +4,12 @@
 
 ### EEOB, Iowa State University
 
-## Time and Place
+## Fall 2017
+### Time and Place
 
 Fill out the [**POLL**](http://whenisgood.net/yzybkbj) with your availability this semester.
 
-## Topic
+### Topics
 
 1. Introductions, updates, and planning 
 2. NSF GRF discussion and examples
