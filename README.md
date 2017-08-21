@@ -1,6 +1,6 @@
 # VASH Lab Meeting Schedule
 
-### A bi-weekly meeting of the Valenzeula, Adams, Serb, and Heath Labs
+### A bi-weekly meeting of the [Valenzeula](http://www.public.iastate.edu/~nvalenzu/), [Adams](http://www.public.iastate.edu/~dcadams/), [Serb](http://serb.public.iastate.edu/http___jeanneserb_HOME.html/HOME.html), and [Heath](http://phyloworks.org/) Labs
 
 ### EEOB, Iowa State University
 
