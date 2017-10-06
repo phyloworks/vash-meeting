@@ -14,8 +14,7 @@ We will meet every other Friday 3:10 - 4:00 PM in 255 Bessey Hall.
 1. September 1: Introductions, updates, and planning 
 2. September 15: [NSF GRF discussion and examples](http://phyloworks.org/vash-meeting/nsfgrf-resources)
 3. September 29: NSF GRF proposal review (there are at least 2 people in our groups applying)
-4. October 6: open
-5. October 20: open
-6. November 3: open
-7. November 17: open
-8. December 1: open
+4. October 13: How to make and deliver a scientific poster.
+5. October 27: open
+6. November 10: open
+7. December 1: open
