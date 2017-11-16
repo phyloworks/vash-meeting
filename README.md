@@ -20,4 +20,4 @@ We will meet every other Friday 3:10 - 4:00 PM in 255 Bessey Hall.
     * [Better Posters Blog by Zen Faulkes](http://betterposters.blogspot.com/)
 5. October 27: Building your web presence
 6. November 10: Academic job materials
-7. December 1: open
+7. December 1: CVs
